@@ -1,0 +1,23 @@
+.cartSummaryContainer {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.orderHeading {
+  color: #616e7c;
+  margin: 0px;
+}
+.totalPrice {
+  color: #171f46;
+}
+.checkOutBtn {
+  background-color: #0b69ff;
+  color: #fff;
+  border-radius: 5px;
+  border: 0px solid;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-self: stretch;
+  margin-top: 20px;
+}
